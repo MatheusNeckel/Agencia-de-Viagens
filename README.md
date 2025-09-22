@@ -24,4 +24,4 @@ além do **gerenciamento de reservas**. O projeto foi construído como prática 
 ## ⚙️ Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-agencia-viagens.git
+   git clone https://github.com/MatheusNeckel/Agencia-de-Viagens.git
